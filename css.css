@@ -1,0 +1,36 @@
+.icon {
+    width: 80px;
+    height: 80px;
+
+}
+
+
+.ul1 {
+    list-style: none;
+    display: flex; 
+}
+
+.icon1 {
+    height: 50px;
+    width: 50px;
+}
+
+.icon2 {
+    width: 40px;
+    height: 40px;
+}
+
+.icon3 {
+    width: 30px;
+    height: 30px;
+}
+
+.ul2 {
+    list-style: none;
+    display: flex;
+}
+
+.ul3 {
+    list-style: none;
+    display: flex;
+}
